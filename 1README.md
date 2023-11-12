@@ -10,26 +10,33 @@
 
 This program was written entirely in C Language.
 
-## COPYRIGHT :no_entry:
+## COPYRIGHT 
 
 Copyright (C) 2023 by [**Mohammed Ayoub ESSBAI**](https://github.com/ayoub22222222) and [**Zineb ZID**](https://github.com/Zinebb12)
 
 All rights reserved . 
 
-## DESCRIPTION :book:
+## DESCRIPTION 
 
 This is a shell written in [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) based on [**the Thompson Shell**](https://en.wikipedia.org/wiki/Thompson_shell) . 
 
-## ENVIRONMENT :globe_with_meridians:
+## ENVIRONMENT 
 
 Our shell is built and tested on Ubuntu 14.04 LTS.
 
-## FEATURES
+## FEATURES 
 
   - Display a prompt and wait for the user to type a command. A command line always ends with a new line.
   - If an executable cannot be found, print an error message and display the prompt again.
   - Handle errors.
-  - Handling the “*end of file*” condition (Ctrl+D)
+  - Handling the “*end of file*” condition (Ctrl+D) . 
   - Handling the command line with arguments .
   - Handle the PATH.
-  - 
+  - Support the exit features and the exit status . 
+  - Handle the Ctrl-C to not terminate the shell .
+  - Handling && and || logical operators . 
+  - Handle variable replacements $? and $$ . 
+  - Handle the comments # . 
+  - Support the file input . 
+  
+## 
