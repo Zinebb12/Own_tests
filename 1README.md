@@ -12,7 +12,11 @@ This program was written entirely in C Language.
 
 ## COPYRIGHT :no_entry:
 
-Copyright (C) 2023 by [**Mohammed Ayoub ESSBAI**]() and **Zineb ZID**
+Copyright (C) 2023 by [**Mohammed Ayoub ESSBAI**](https://github.com/ayoub22222222) and [**Zineb ZID**](https://github.com/Zinebb12)
 
 All rights reserved . 
+
+## DESCRIPTION :book:
+
+This is a shell written in [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) based on [**the Thompson Shell**](https://en.wikipedia.org/wiki/Thompson_shell) . 
 
