@@ -39,4 +39,9 @@ Our shell is built and tested on Ubuntu 14.04 LTS.
   - Handle the comments # . 
   - Support the file input . 
   
-## 
+## COMPILATION 
+
+The Shell is compiled this way :  
+
+- gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh 
+
