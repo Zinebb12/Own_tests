@@ -32,4 +32,4 @@ Our shell is built and tested on Ubuntu 14.04 LTS.
   - Handling the “*end of file*” condition (Ctrl+D)
   - Handling the command line with arguments .
   - Handle the PATH.
-  
+  - 
