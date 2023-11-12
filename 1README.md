@@ -20,3 +20,16 @@ All rights reserved .
 
 This is a shell written in [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) based on [**the Thompson Shell**](https://en.wikipedia.org/wiki/Thompson_shell) . 
 
+## ENVIRONMENT :globe_with_meridians:
+
+Our shell is built and tested on Ubuntu 14.04 LTS.
+
+## FEATURES
+
+  - Display a prompt and wait for the user to type a command. A command line always ends with a new line.
+  - If an executable cannot be found, print an error message and display the prompt again.
+  - Handle errors.
+  - Handling the “*end of file*” condition (Ctrl+D)
+  - Handling the command line with arguments .
+  - Handle the PATH.
+  
